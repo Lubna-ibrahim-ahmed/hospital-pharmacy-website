@@ -40,6 +40,8 @@ The website was built entirely using front-end technologies and browser-based st
 - Update stock quantities
 - Inventory tracking system
 - Load medicine inventory from an Excel file using SheetJS
+- Export as an excel file
+- Low stock and expiry alrets
 
 ### Point of Sale (POS)
 - Search medicines
@@ -48,12 +50,15 @@ The website was built entirely using front-end technologies and browser-based st
 - Payment method selection
 - Receipt generation
 - Automatic stock reduction after sales
+- Refund processing, validated against the original sale before approval 
 
 ### Reports
 - Sales transaction reports
 - Inventory reports
 - Expired medicine reports
 - Data tables for tracking pharmacy operations
+- Sales summary: total sales, profit, and quantity sold
+- Print reports or export them to CSV
 
 ---
 
@@ -123,8 +128,8 @@ Through this project, the team gained practical experience in:
 | Team Member             | Responsibilities                                                                                                                                                                      |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Yahia Ahmed Shaheen** | Developed the complete authentication system including login/logout functionality, admin pages, doctor account creation, account editing/deleting logic, and user management workflow |
-| **Maya Ramy Essam**     | Developed dashboard components including summary cards, alerts, navigation bar, and dashboard UI                                                                                      |
-| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, medicine sales logic, and database logic(sheetJS)                                                        |
-| **Amena Tamer**         | Developed reports pages and transaction history tables                                                                                                                                |
-| **Mariam Amr**          | Developed inventory management features including medicine search and stock quantity handling                                                                                         |
+| **Maya Ramy Essam**     | Developed dashboard components including summary cards, alerts, navigation bar, and dashboard UI   |
+| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, medicine sales logic, expiry and refund logic, and database logic(sheetJS) |
+| **Amena Tamer**         | Developed reports pages and transaction history tables, summary cards, print, and CSV export       |
+| **Mariam Amr**          | Developed inventory management features including medicine search,stock quantity handling and batch tracking                                                                                       |
 
