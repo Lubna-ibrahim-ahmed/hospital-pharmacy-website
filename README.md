@@ -39,6 +39,7 @@ The website was built entirely using front-end technologies and browser-based st
 - Add medicines to inventory
 - Update stock quantities
 - Inventory tracking system
+- Load medicine inventory from an Excel file using SheetJS
 
 ### Point of Sale (POS)
 - Search medicines
@@ -64,6 +65,7 @@ The website was built entirely using front-end technologies and browser-based st
 - Google Fonts
 - Icons Libraries
 - Git & GitHub for collaboration and version control
+- SheetJS (xlsx) — reading medicine data from Excel (.xlsx) files
 
 
 ---
@@ -122,7 +124,7 @@ Through this project, the team gained practical experience in:
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Yahia Ahmed Shaheen** | Developed the complete authentication system including login/logout functionality, admin pages, doctor account creation, account editing/deleting logic, and user management workflow |
 | **Maya Ramy Essam**     | Developed dashboard components including summary cards, alerts, navigation bar, and dashboard UI                                                                                      |
-| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, and medicine sales logic                                                          |
+| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, medicine sales logic, and database logic(sheetJS)                                                        |
 | **Amena Tamer**         | Developed reports pages and transaction history tables                                                                                                                                |
 | **Mariam Amr**          | Developed inventory management features including medicine search and stock quantity handling                                                                                         |
 
