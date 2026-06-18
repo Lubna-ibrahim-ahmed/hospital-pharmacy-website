@@ -4,6 +4,12 @@ A front-end Pharmacy IT System designed for the pharmacy department of a hospita
 The project simulates a real pharmacy workflow including inventory management, medicine sales, reporting, dashboard monitoring, and account management.
 
 ---
+## Live Demo
+
+🔗 **[View the live site](https://lubna-ibrahim-ahmed.github.io/hospital-pharmacy-website/)**
+
+> **Note:** Log in to explore the system. To populate the inventory page, use the
+> import button and upload the included `pharmacy_inventory.xlsx` file.
 
 ## Project Overview
 
