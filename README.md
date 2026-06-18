@@ -8,9 +8,20 @@ The project simulates a real pharmacy workflow including inventory management, m
 
 🔗 **[View the live site](https://lubna-ibrahim-ahmed.github.io/hospital-pharmacy-website/)**
 
-> **Note:** Log in to explore the system. To populate the inventory page, use the
-> import button and upload the included `pharmacy_inventory.xlsx` file.
+This is a front-end pharmacy system with **role-based access** (Admin vs. Doctor). Try both roles:
 
+**1. Enter as Admin** — <ADMIN TRIGGER GOES HERE, e.g. "click the Admin button on the login page">
+Admin has full access: the admin dashboard and the **Manage Accounts** page.
+
+**2. Create a Doctor account**
+On the Manage Accounts page, add a doctor with any username and password you choose.
+
+**3. Log out and log in as that Doctor**
+Use the username/password you just created. You'll see the standard pharmacist view with admin
+features hidden — demonstrating the role-based access control.
+
+> **Inventory data:** On the inventory page, use the import button to upload the included
+> `pharmacy_inventory.xlsx` file to populate the table.
 ## Project Overview
 
 The system was developed as a collaborative university project to simulate the daily workflow inside a hospital pharmacy environment.  
