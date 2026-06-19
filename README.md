@@ -46,8 +46,8 @@ account you just created to see the standard Doctor access.
 - Update stock quantities
 - Inventory tracking system
 - Load medicine inventory from an Excel file using SheetJS
-- Export as an excel file
-- Low stock and expiry alrets
+- Export as an Excel file
+- Low stock and expiry alerts
 
 ### Point of Sale (POS)
 - Search medicines
@@ -56,7 +56,7 @@ account you just created to see the standard Doctor access.
 - Payment method selection
 - Receipt generation
 - Automatic stock reduction after sales
-- Refund processing, validated against the original sale before approval 
+- Refund processing, validated against the original sale before approval
 
 ### Reports
 - Sales transaction reports
@@ -76,8 +76,7 @@ account you just created to see the standard Doctor access.
 - Google Fonts
 - Icons Libraries
 - Git & GitHub for collaboration and version control
-- SheetJS (xlsx) — reading medicine data from Excel (.xlsx) files
-
+- SheetJS (xlsx) — reading and exporting Excel (.xlsx) data
 
 ---
 
@@ -108,7 +107,7 @@ Through this project, the team gained practical experience in:
 ### Managing Accounts Page
 <img width="1600" height="761" alt="WebsiteImg6" src="https://github.com/user-attachments/assets/97a098e5-1e1e-405b-af8f-090343fa818d" />
 
-### LogIn Page
+### Login Page
 <img width="1600" height="756" alt="WebsiteImg5" src="https://github.com/user-attachments/assets/e9b346b0-c3be-4027-8491-826071d9d968" />
 
 ### Dashboard Page
@@ -120,8 +119,8 @@ Through this project, the team gained practical experience in:
 ### POS Page
 <img width="1600" height="758" alt="WebsiteImg2" src="https://github.com/user-attachments/assets/899fbb6e-0aa4-40cc-a021-0be84685dda8" />
 
-### Recipt Making Page
-<img width="1600" height="764" alt="WebsiteImg3" src="https://github.com/user-attachments/assets/d8383167-fdae-4b31-87c1-1739566f98ff" />
+### Receipt Making Page
+<img width="1600" height="764" alt="WebsiteImg3" src="https://github.com/user-attachments/assets/d8383167-fdae-4b31-87c1-1789fa818d" />
 
 ### Inventory Management Page
 <img width="1901" height="919" alt="Screenshot 2026-06-09 002607" src="https://github.com/user-attachments/assets/c3378857-5800-411b-a360-9a3b333f79a8" />
@@ -132,10 +131,11 @@ Through this project, the team gained practical experience in:
 ## Authors and Workload
 
 | Team Member             | Responsibilities                                                                                                                                                                      |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Yahia Ahmed Shaheen** | Developed the complete authentication system including login/logout functionality, admin pages, doctor account creation, account editing/deleting logic, and user management workflow |
-| **Maya Ramy Essam**     | Developed dashboard components including summary cards, alerts, navigation bar, and dashboard UI   |
-| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, medicine sales logic, expiry and refund logic, and database logic(sheetJS) |
-| **Amena Tamer**         | Developed reports pages and transaction history tables, summary cards, print, and CSV export       |
-| **Mariam Amr**          | Developed inventory management features including medicine search,stock quantity handling and batch tracking                                                                                       |
+| **Maya Ramy Essam**     | Developed dashboard components including summary cards, alerts, navigation bar, and dashboard UI                                                                                      |
+| **Lubna Ibrahim**       | Developed Point of Sale (POS) features including cart system, payment workflow, receipt generation, medicine sales logic, expiry and refund logic, and database logic (SheetJS)       |
+| **Amena Tamer**         | Developed reports pages and transaction history tables, summary cards, print, and CSV export                                                                                         |
+| **Mariam Amr**          | Developed inventory management features including medicine search, stock quantity handling, and batch tracking                                                                        |
 
+---
