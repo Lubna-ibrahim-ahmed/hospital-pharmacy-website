@@ -120,7 +120,7 @@ Through this project, the team gained practical experience in:
 <img width="1600" height="758" alt="WebsiteImg2" src="https://github.com/user-attachments/assets/899fbb6e-0aa4-40cc-a021-0be84685dda8" />
 
 ### Receipt Making Page
-<img width="1600" height="764" alt="WebsiteImg3" src="https://github.com/user-attachments/assets/d8383167-fdae-4b31-87c1-1789fa818d" />
+<img width="1600" height="764" alt="WebsiteImg3" src="https://github.com/user-attachments/assets/d8383167-fdae-4b31-87c1-1739566f98ff" />
 
 ### Inventory Management Page
 <img width="1901" height="919" alt="Screenshot 2026-06-09 002607" src="https://github.com/user-attachments/assets/c3378857-5800-411b-a360-9a3b333f79a8" />
